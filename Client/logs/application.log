@@ -1,0 +1,30 @@
+2019-06-11 04:18:26,940 [INFO] from akka.event.slf4j.Slf4jLogger in application-akka.actor.default-dispatcher-2 - Slf4jLogger started
+2019-06-11 04:18:26,970 [INFO] from akka.remote.Remoting in application-akka.actor.default-dispatcher-2 - Starting remoting
+2019-06-11 04:18:27,223 [INFO] from akka.remote.Remoting in application-akka.actor.default-dispatcher-5 - Remoting started; listening on addresses :[akka.tcp://application@127.0.0.1:61435]
+2019-06-11 04:18:27,236 [INFO] from akka.remote.Remoting in application-akka.actor.default-dispatcher-5 - Remoting now listens on addresses: [akka.tcp://application@127.0.0.1:61435]
+2019-06-11 04:18:28,410 [INFO] from Controller in play-dev-mode-akka.actor.default-dispatcher-4 - Controller started
+2019-06-11 04:18:28,616 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-4 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    filters.ContentSecurityPolicyFilter
+
+2019-06-11 04:18:28,641 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-4 - Application started (Dev) (no global state)
+2019-06-11 04:18:29,660 [INFO] from akka.event.slf4j.Slf4jLogger in sys1-akka.actor.default-dispatcher-2 - Slf4jLogger started
+2019-06-11 04:18:29,666 [INFO] from akka.remote.Remoting in sys1-akka.actor.default-dispatcher-7 - Starting remoting
+2019-06-11 04:18:29,671 [INFO] from akka.event.slf4j.Slf4jLogger in sys0-akka.actor.default-dispatcher-3 - Slf4jLogger started
+2019-06-11 04:18:29,678 [INFO] from akka.remote.Remoting in sys0-akka.actor.default-dispatcher-4 - Starting remoting
+2019-06-11 04:18:29,713 [INFO] from akka.remote.Remoting in sys1-akka.actor.default-dispatcher-8 - Remoting started; listening on addresses :[akka.tcp://sys1@127.0.0.1:61459]
+2019-06-11 04:18:29,713 [INFO] from akka.remote.Remoting in sys1-akka.actor.default-dispatcher-8 - Remoting now listens on addresses: [akka.tcp://sys1@127.0.0.1:61459]
+2019-06-11 04:18:29,737 [INFO] from akka.remote.Remoting in sys0-akka.actor.default-dispatcher-7 - Remoting started; listening on addresses :[akka.tcp://sys0@127.0.0.1:61461]
+2019-06-11 04:18:29,738 [INFO] from akka.remote.Remoting in sys0-akka.actor.default-dispatcher-7 - Remoting now listens on addresses: [akka.tcp://sys0@127.0.0.1:61461]
+2019-06-11 04:18:34,190 [INFO] from akka.remote.RemoteActorRefProvider$RemotingTerminator in sys1-akka.actor.default-dispatcher-3 - Shutting down remote daemon.
+2019-06-11 04:18:34,191 [INFO] from akka.remote.RemoteActorRefProvider$RemotingTerminator in sys1-akka.actor.default-dispatcher-3 - Remote daemon shut down; proceeding with flushing remote transports.
+2019-06-11 04:18:34,226 [INFO] from akka.remote.Remoting in sys1-akka.actor.default-dispatcher-3 - Remoting shut down
+2019-06-11 04:18:34,232 [INFO] from akka.remote.RemoteActorRefProvider$RemotingTerminator in sys1-akka.actor.default-dispatcher-5 - Remoting shut down.
+2019-06-11 04:18:41,948 [INFO] from play.core.server.AkkaHttpServer in pool-7-thread-2 - Stopping server...
+2019-06-11 04:18:41,964 [INFO] from akka.remote.RemoteActorRefProvider$RemotingTerminator in application-akka.actor.default-dispatcher-2 - Shutting down remote daemon.
+2019-06-11 04:18:41,964 [INFO] from akka.remote.RemoteActorRefProvider$RemotingTerminator in application-akka.actor.default-dispatcher-2 - Remote daemon shut down; proceeding with flushing remote transports.
+2019-06-11 04:18:41,979 [INFO] from akka.remote.Remoting in application-akka.actor.default-dispatcher-4 - Remoting shut down
+2019-06-11 04:18:41,979 [INFO] from akka.remote.RemoteActorRefProvider$RemotingTerminator in application-akka.actor.default-dispatcher-4 - Remoting shut down.
